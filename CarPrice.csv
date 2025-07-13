@@ -1,0 +1,206 @@
+car_ID,symboling,CarName,enginelocation,wheelbase,carlength,carwidth,carheight,curbweight,cylindernumber,enginesize,fuelsystem,boreratio,stroke,compressionratio,horsepower,peakrpm,citympg,price
+1,Risky,alfa-romero giulia,front,88.6,168.8,64.1,48.8,2548,NormalPerf,130,FuelInjected,3.47,2.68,9,111,5000,21,13495
+2,Risky,alfa-romero stelvio,front,88.6,168.8,64.1,48.8,2548,NormalPerf,130,FuelInjected,3.47,2.68,9,111,5000,21,16500
+3,Risky,alfa-romero Quadrifoglio,front,94.5,171.2,65.5,52.4,2823,HighPerf,152,FuelInjected,2.68,3.47,9,154,5000,19,16500
+4,Risky,audi 100 ls,front,99.8,176.6,66.2,54.3,2337,NormalPerf,109,FuelInjected,3.19,3.4,10,102,5500,24,13950
+5,Risky,audi 100ls,front,99.4,176.6,66.4,54.3,2824,NormalPerf,136,FuelInjected,3.19,3.4,8,115,5500,18,17450
+6,Risky,audi fox,front,99.8,177.3,66.3,53.1,2507,NormalPerf,136,FuelInjected,3.19,3.4,8.5,110,5500,19,15250
+7,Risky,audi 100ls,front,105.8,192.7,71.4,55.7,2844,NormalPerf,136,FuelInjected,3.19,3.4,8.5,110,5500,19,17710
+8,Risky,audi 5000,front,105.8,192.7,71.4,55.7,2954,NormalPerf,136,FuelInjected,3.19,3.4,8.5,110,5500,19,18920
+9,Risky,audi 4000,front,105.8,192.7,71.4,55.9,3086,NormalPerf,131,FuelInjected,3.13,3.4,8.3,140,5500,17,23875
+10,Safe,audi 5000s (diesel),front,99.5,178.2,67.9,52,3053,NormalPerf,131,FuelInjected,3.13,3.4,7,160,5500,16,17859.167
+11,Risky,bmw 320i,front,101.2,176.8,64.8,54.3,2395,NormalPerf,108,FuelInjected,3.5,2.8,8.8,101,5800,23,16430
+12,Safe,bmw 320i,front,101.2,176.8,64.8,54.3,2395,NormalPerf,108,FuelInjected,3.5,2.8,8.8,101,5800,23,16925
+13,Safe,bmw x1,front,101.2,176.8,64.8,54.3,2710,HighPerf,164,FuelInjected,3.31,3.19,9,121,4250,21,20970
+14,Safe,bmw x3,front,101.2,176.8,64.8,54.3,2765,HighPerf,164,FuelInjected,3.31,3.19,9,121,4250,21,21105
+15,Risky,bmw z4,front,103.5,189,66.9,55.7,3055,HighPerf,164,FuelInjected,3.31,3.19,9,121,4250,20,24565
+16,Safe,bmw x4,front,103.5,189,66.9,55.7,3230,HighPerf,209,FuelInjected,3.62,3.39,8,182,5400,16,30760
+17,Safe,bmw x5,front,103.5,193.8,67.9,53.7,3380,HighPerf,209,FuelInjected,3.62,3.39,8,182,5400,16,41315
+18,Safe,bmw x3,front,110,197,70.9,56.3,3505,HighPerf,209,FuelInjected,3.62,3.39,8,182,5400,15,36880
+19,Risky,chevrolet impala,front,88.4,141.1,60.3,53.2,1488,NormalPerf,61,Carbureted,2.91,3.03,9.5,48,5100,47,5151
+20,Risky,chevrolet monte carlo,front,94.5,155.9,63.6,52,1874,NormalPerf,90,Carbureted,3.03,3.11,9.6,70,5400,38,6295
+21,Safe,chevrolet vega 2300,front,94.5,158.8,63.6,52,1909,NormalPerf,90,Carbureted,3.03,3.11,9.6,70,5400,38,6575
+22,Risky,dodge rampage,front,93.7,157.3,63.8,50.8,1876,NormalPerf,90,Carbureted,2.97,3.23,9.41,68,5500,37,5572
+23,Risky,dodge challenger se,front,93.7,157.3,63.8,50.8,1876,NormalPerf,90,Carbureted,2.97,3.23,9.4,68,5500,31,6377
+24,Risky,dodge d200,front,93.7,157.3,63.8,50.8,2128,NormalPerf,98,FuelInjected,3.03,3.39,7.6,102,5500,24,7957
+25,Risky,dodge monaco (sw),front,93.7,157.3,63.8,50.6,1967,NormalPerf,90,Carbureted,2.97,3.23,9.4,68,5500,31,6229
+26,Risky,dodge colt hardtop,front,93.7,157.3,63.8,50.6,1989,NormalPerf,90,Carbureted,2.97,3.23,9.4,68,5500,31,6692
+27,Risky,dodge colt (sw),front,93.7,157.3,63.8,50.6,1989,NormalPerf,90,Carbureted,2.97,3.23,9.4,68,5500,31,7609
+28,Risky,dodge coronet custom,front,93.7,157.3,63.8,50.6,2191,NormalPerf,98,FuelInjected,3.03,3.39,7.6,102,5500,24,8558
+29,Safe,dodge dart custom,front,103.3,174.6,64.6,59.8,2535,NormalPerf,122,Carbureted,3.34,3.46,8.5,88,5000,24,8921
+30,Risky,dodge coronet custom (sw),front,95.9,173.2,66.3,50.2,2811,NormalPerf,156,FuelInjected,3.6,3.9,7,145,5000,19,12964
+31,Risky,honda civic,front,86.6,144.6,63.9,50.8,1713,NormalPerf,92,Carbureted,2.91,3.41,9.6,58,4800,49,6479
+32,Risky,honda civic cvcc,front,86.6,144.6,63.9,50.8,1819,NormalPerf,92,Carbureted,2.91,3.41,9.2,76,6000,31,6855
+33,Risky,honda civic,front,93.7,150,64,52.6,1837,NormalPerf,79,Carbureted,2.91,3.07,10.1,60,5500,38,5399
+34,Risky,honda accord cvcc,front,93.7,150,64,52.6,1940,NormalPerf,92,Carbureted,2.91,3.41,9.2,76,6000,30,6529
+35,Risky,honda civic cvcc,front,93.7,150,64,52.6,1956,NormalPerf,92,Carbureted,2.91,3.41,9.2,76,6000,30,7129
+36,Safe,honda accord lx,front,96.5,163.4,64,54.5,2010,NormalPerf,92,Carbureted,2.91,3.41,9.2,76,6000,30,7295
+37,Safe,honda civic 1500 gl,front,96.5,157.1,63.9,58.3,2024,NormalPerf,92,Carbureted,2.92,3.41,9.2,76,6000,30,7295
+38,Safe,honda accord,front,96.5,167.5,65.2,53.3,2236,NormalPerf,110,Carbureted,3.15,3.58,9,86,5800,27,7895
+39,Safe,honda civic 1300,front,96.5,167.5,65.2,53.3,2289,NormalPerf,110,Carbureted,3.15,3.58,9,86,5800,27,9095
+40,Safe,honda prelude,front,96.5,175.4,65.2,54.1,2304,NormalPerf,110,Carbureted,3.15,3.58,9,86,5800,27,8845
+41,Safe,honda accord,front,96.5,175.4,62.5,54.1,2372,NormalPerf,110,Carbureted,3.15,3.58,9,86,5800,27,10295
+42,Safe,honda civic,front,96.5,175.4,65.2,54.1,2465,NormalPerf,110,FuelInjected,3.15,3.58,9,101,5800,24,12945
+43,Risky,honda civic (auto),front,96.5,169.1,66,51,2293,NormalPerf,110,Carbureted,3.15,3.58,9.1,100,5500,25,10345
+44,Safe,isuzu MU-X,front,94.3,170.7,61.8,53.5,2337,NormalPerf,111,Carbureted,3.31,3.23,8.5,78,4800,24,6785
+45,Risky,isuzu D-Max ,front,94.5,155.9,63.6,52,1874,NormalPerf,90,Carbureted,3.03,3.11,9.6,70,5400,38,8916.5
+46,Safe,isuzu D-Max V-Cross,front,94.5,155.9,63.6,52,1909,NormalPerf,90,Carbureted,3.03,3.11,9.6,70,5400,38,8916.5
+47,Risky,isuzu D-Max ,front,96,172.6,65.2,51.4,2734,NormalPerf,119,FuelInjected,3.43,3.23,9.2,90,5000,24,11048
+48,Safe,jaguar xj,front,113,199.6,69.6,52.8,4066,HighPerf,258,FuelInjected,3.63,4.17,8.1,176,4750,15,32250
+49,Safe,jaguar xf,front,113,199.6,69.6,52.8,4066,HighPerf,258,FuelInjected,3.63,4.17,8.1,176,4750,15,35550
+50,Safe,jaguar xk,front,102,191.7,70.6,47.8,3950,HighPerf,326,FuelInjected,3.54,2.76,11.5,262,5000,13,36000
+51,Risky,maxda rx3,front,93.1,159.1,64.2,54.1,1890,NormalPerf,91,Carbureted,3.03,3.15,9,68,5000,30,5195
+52,Risky,maxda glc deluxe,front,93.1,159.1,64.2,54.1,1900,NormalPerf,91,Carbureted,3.03,3.15,9,68,5000,31,6095
+53,Risky,mazda rx2 coupe,front,93.1,159.1,64.2,54.1,1905,NormalPerf,91,Carbureted,3.03,3.15,9,68,5000,31,6795
+54,Risky,mazda rx-4,front,93.1,166.8,64.2,54.1,1945,NormalPerf,91,Carbureted,3.03,3.15,9,68,5000,31,6695
+55,Risky,mazda glc deluxe,front,93.1,166.8,64.2,54.1,1950,NormalPerf,91,Carbureted,3.08,3.15,9,68,5000,31,7395
+56,Risky,mazda 626,front,95.3,169,65.7,49.6,2380,NormalPerf,70,Carbureted,3.33,3.255,9.4,101,6000,17,10945
+57,Risky,mazda glc,front,95.3,169,65.7,49.6,2380,NormalPerf,70,Carbureted,3.33,3.255,9.4,101,6000,17,11845
+58,Risky,mazda rx-7 gs,front,95.3,169,65.7,49.6,2385,NormalPerf,70,Carbureted,3.33,3.255,9.4,101,6000,17,13645
+59,Risky,mazda glc 4,front,95.3,169,65.7,49.6,2500,NormalPerf,80,FuelInjected,3.33,3.255,9.4,135,6000,16,15645
+60,Risky,mazda 626,front,98.8,177.8,66.5,53.7,2385,NormalPerf,122,Carbureted,3.39,3.39,8.6,84,4800,26,8845
+61,Safe,mazda glc custom l,front,98.8,177.8,66.5,55.5,2410,NormalPerf,122,Carbureted,3.39,3.39,8.6,84,4800,26,8495
+62,Risky,mazda glc custom,front,98.8,177.8,66.5,53.7,2385,NormalPerf,122,Carbureted,3.39,3.39,8.6,84,4800,26,10595
+63,Safe,mazda rx-4,front,98.8,177.8,66.5,55.5,2410,NormalPerf,122,Carbureted,3.39,3.39,8.6,84,4800,26,10245
+64,Safe,mazda glc deluxe,front,98.8,177.8,66.5,55.5,2443,NormalPerf,122,FuelInjected,3.39,3.39,22.7,64,4650,36,10795
+65,Safe,mazda 626,front,98.8,177.8,66.5,55.5,2425,NormalPerf,122,Carbureted,3.39,3.39,8.6,84,4800,26,11245
+66,Safe,mazda glc,front,104.9,175,66.1,54.4,2670,NormalPerf,140,FuelInjected,3.76,3.16,8,120,5000,19,18280
+67,Safe,mazda rx-7 gs,front,104.9,175,66.1,54.4,2700,NormalPerf,134,FuelInjected,3.43,3.64,22,72,4200,31,18344
+68,Safe,buick electra 225 custom,front,110,190.9,70.3,56.5,3515,NormalPerf,183,FuelInjected,3.58,3.64,21.5,123,4350,22,25552
+69,Safe,buick century luxus (sw),front,110,190.9,70.3,58.7,3750,NormalPerf,183,FuelInjected,3.58,3.64,21.5,123,4350,22,28248
+70,Safe,buick century,front,106.7,187.5,70.3,54.9,3495,NormalPerf,183,FuelInjected,3.58,3.64,21.5,123,4350,22,28176
+71,Safe,buick skyhawk,front,115.6,202.6,71.7,56.3,3770,NormalPerf,183,FuelInjected,3.58,3.64,21.5,123,4350,22,31600
+72,Safe,buick opel isuzu deluxe,front,115.6,202.6,71.7,56.5,3740,HighPerf,234,FuelInjected,3.46,3.1,8.3,155,4750,16,34184
+73,Risky,buick skylark,front,96.6,180.3,70.5,50.8,3685,HighPerf,234,FuelInjected,3.46,3.1,8.3,155,4750,16,35056
+74,Safe,buick century special,front,120.9,208.1,71.7,56.7,3900,HighPerf,308,FuelInjected,3.8,3.35,8,184,4500,14,40960
+75,Risky,buick regal sport coupe (turbo),front,112,199.2,72,55.4,3715,HighPerf,304,FuelInjected,3.8,3.35,8,184,4500,14,45400
+76,Risky,mercury cougar,front,102.7,178.4,68,54.8,2910,NormalPerf,140,FuelInjected,3.78,3.12,8,175,5000,19,16503
+77,Risky,mitsubishi mirage,front,93.7,157.3,64.4,50.8,1918,NormalPerf,92,Carbureted,2.97,3.23,9.4,68,5500,37,5389
+78,Risky,mitsubishi lancer,front,93.7,157.3,64.4,50.8,1944,NormalPerf,92,Carbureted,2.97,3.23,9.4,68,5500,31,6189
+79,Risky,mitsubishi outlander,front,93.7,157.3,64.4,50.8,2004,NormalPerf,92,Carbureted,2.97,3.23,9.4,68,5500,31,6669
+80,Risky,mitsubishi g4,front,93,157.3,63.8,50.8,2145,NormalPerf,98,FuelInjected,3.03,3.39,7.6,102,5500,24,7689
+81,Risky,mitsubishi mirage g4,front,96.3,173,65.4,49.4,2370,NormalPerf,110,FuelInjected,3.17,3.46,7.5,116,5500,23,9959
+82,Risky,mitsubishi g4,front,96.3,173,65.4,49.4,2328,NormalPerf,122,Carbureted,3.35,3.46,8.5,88,5000,25,8499
+83,Risky,mitsubishi outlander,front,95.9,173.2,66.3,50.2,2833,NormalPerf,156,FuelInjected,3.58,3.86,7,145,5000,19,12629
+84,Risky,mitsubishi g4,front,95.9,173.2,66.3,50.2,2921,NormalPerf,156,FuelInjected,3.59,3.86,7,145,5000,19,14869
+85,Risky,mitsubishi mirage g4,front,95.9,173.2,66.3,50.2,2926,NormalPerf,156,FuelInjected,3.59,3.86,7,145,5000,19,14489
+86,Risky,mitsubishi montero,front,96.3,172.4,65.4,51.6,2365,NormalPerf,122,Carbureted,3.35,3.46,8.5,88,5000,25,6989
+87,Risky,mitsubishi pajero,front,96.3,172.4,65.4,51.6,2405,NormalPerf,122,Carbureted,3.35,3.46,8.5,88,5000,25,8189
+88,Risky,mitsubishi outlander,front,96.3,172.4,65.4,51.6,2403,NormalPerf,110,FuelInjected,3.17,3.46,7.5,116,5500,23,9279
+89,Safe,mitsubishi mirage g4,front,96.3,172.4,65.4,51.6,2403,NormalPerf,110,FuelInjected,3.17,3.46,7.5,116,5500,23,9279
+90,Risky,Nissan versa,front,94.5,165.3,63.8,54.5,1889,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,5499
+91,Risky,nissan gt-r,front,94.5,165.3,63.8,54.5,2017,NormalPerf,103,FuelInjected,2.99,3.47,21.9,55,4800,45,7099
+92,Risky,nissan rogue,front,94.5,165.3,63.8,54.5,1918,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,6649
+93,Risky,nissan latio,front,94.5,165.3,63.8,54.5,1938,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,6849
+94,Risky,nissan titan,front,94.5,170.2,63.8,53.5,2024,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,7349
+95,Risky,nissan leaf,front,94.5,165.3,63.8,54.5,1951,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,7299
+96,Risky,nissan juke,front,94.5,165.6,63.8,53.3,2028,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,7799
+97,Risky,nissan latio,front,94.5,165.3,63.8,54.5,1971,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,7499
+98,Risky,nissan note,front,94.5,170.2,63.8,53.5,2037,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,7999
+99,Risky,nissan clipper,front,95.1,162.4,63.8,53.3,2008,NormalPerf,97,Carbureted,3.15,3.29,9.4,69,5200,31,8249
+100,Safe,nissan rogue,front,97.2,173.4,65.2,54.7,2324,NormalPerf,120,Carbureted,3.33,3.47,8.5,97,5200,27,8949
+101,Safe,nissan nv200,front,97.2,173.4,65.2,54.7,2302,NormalPerf,120,Carbureted,3.33,3.47,8.5,97,5200,27,9549
+102,Safe,nissan dayz,front,100.4,181.7,66.5,55.1,3095,HighPerf,181,FuelInjected,3.43,3.27,9,152,5200,17,13499
+103,Safe,nissan fuga,front,100.4,184.6,66.5,56.1,3296,HighPerf,181,FuelInjected,3.43,3.27,9,152,5200,17,14399
+104,Safe,nissan otti,front,100.4,184.6,66.5,55.1,3060,HighPerf,181,FuelInjected,3.43,3.27,9,152,5200,19,13499
+105,Risky,nissan teana,front,91.3,170.7,67.9,49.7,3071,HighPerf,181,FuelInjected,3.43,3.27,9,160,5200,19,17199
+106,Risky,nissan kicks,front,91.3,170.7,67.9,49.7,3139,HighPerf,181,FuelInjected,3.43,3.27,7.8,200,5200,17,19699
+107,Risky,nissan clipper,front,99.2,178.5,67.9,49.7,3139,HighPerf,181,FuelInjected,3.43,3.27,9,160,5200,19,18399
+108,Safe,peugeot 504,front,107.9,186.7,68.4,56.7,3020,NormalPerf,120,FuelInjected,3.46,3.19,8.4,97,5000,19,11900
+109,Safe,peugeot 304,front,107.9,186.7,68.4,56.7,3197,NormalPerf,152,FuelInjected,3.7,3.52,21,95,4150,28,13200
+110,Safe,peugeot 504 (sw),front,114.2,198.9,68.4,58.7,3230,NormalPerf,120,FuelInjected,3.46,3.19,8.4,97,5000,19,12440
+111,Safe,peugeot 504,front,114.2,198.9,68.4,58.7,3430,NormalPerf,152,FuelInjected,3.7,3.52,21,95,4150,25,13860
+112,Safe,peugeot 504,front,107.9,186.7,68.4,56.7,3075,NormalPerf,120,FuelInjected,3.46,2.19,8.4,95,5000,19,15580
+113,Safe,peugeot 604sl,front,107.9,186.7,68.4,56.7,3252,NormalPerf,152,FuelInjected,3.7,3.52,21,95,4150,28,16900
+114,Safe,peugeot 504,front,114.2,198.9,68.4,56.7,3285,NormalPerf,120,FuelInjected,3.46,2.19,8.4,95,5000,19,16695
+115,Safe,peugeot 505s turbo diesel,front,114.2,198.9,68.4,58.7,3485,NormalPerf,152,FuelInjected,3.7,3.52,21,95,4150,25,17075
+116,Safe,peugeot 504,front,107.9,186.7,68.4,56.7,3075,NormalPerf,120,FuelInjected,3.46,3.19,8.4,97,5000,19,16630
+117,Safe,peugeot 504,front,107.9,186.7,68.4,56.7,3252,NormalPerf,152,FuelInjected,3.7,3.52,21,95,4150,28,17950
+118,Safe,peugeot 604sl,front,108,186.7,68.3,56,3130,NormalPerf,134,FuelInjected,3.61,3.21,7,142,5600,18,18150
+119,Risky,plymouth fury iii,front,93.7,157.3,63.8,50.8,1918,NormalPerf,90,Carbureted,2.97,3.23,9.4,68,5500,37,5572
+120,Risky,plymouth cricket,front,93.7,157.3,63.8,50.8,2128,NormalPerf,98,FuelInjected,3.03,3.39,7.6,102,5500,24,7957
+121,Risky,plymouth fury iii,front,93.7,157.3,63.8,50.6,1967,NormalPerf,90,Carbureted,2.97,3.23,9.4,68,5500,31,6229
+122,Risky,plymouth satellite custom (sw),front,93.7,167.3,63.8,50.8,1989,NormalPerf,90,Carbureted,2.97,3.23,9.4,68,5500,31,6692
+123,Risky,plymouth fury gran sedan,front,93.7,167.3,63.8,50.8,2191,NormalPerf,98,Carbureted,2.97,3.23,9.4,68,5500,31,7609
+124,Safe,plymouth valiant,front,103.3,174.6,64.6,59.8,2535,NormalPerf,122,Carbureted,3.35,3.46,8.5,88,5000,24,8921
+125,Risky,plymouth duster,front,95.9,173.2,66.3,50.2,2818,NormalPerf,156,FuelInjected,3.59,3.86,7,145,5000,19,12764
+126,Risky,porsche macan,front,94.5,168.9,68.3,50.2,2778,NormalPerf,151,FuelInjected,3.94,3.11,9.5,143,5500,19,22018
+127,Risky,porcshce panamera,rear,89.5,168.9,65,51.6,2756,HighPerf,194,FuelInjected,3.74,2.9,9.5,207,5900,17,32528
+128,Risky,porsche cayenne,rear,89.5,168.9,65,51.6,2756,HighPerf,194,FuelInjected,3.74,2.9,9.5,207,5900,17,34028
+129,Risky,porsche boxter,rear,89.5,168.9,65,51.6,2800,HighPerf,194,FuelInjected,3.74,2.9,9.5,207,5900,17,37028
+130,Risky,porsche cayenne,front,98.4,175.7,72.3,50.5,3366,HighPerf,203,FuelInjected,3.94,3.11,10,288,5750,17,31400.5
+131,Safe,renault 12tl,front,96.1,181.5,66.5,55.2,2579,NormalPerf,132,FuelInjected,3.46,3.9,8.7,90,5100,23,9295
+132,Risky,renault 5 gtl,front,96.1,176.8,66.6,50.5,2460,NormalPerf,132,FuelInjected,3.46,3.9,8.7,90,5100,23,9895
+133,Risky,saab 99e,front,99.1,186.6,66.5,56.1,2658,NormalPerf,121,FuelInjected,3.54,3.07,9.31,110,5250,21,11850
+134,Risky,saab 99le,front,99.1,186.6,66.5,56.1,2695,NormalPerf,121,FuelInjected,3.54,3.07,9.3,110,5250,21,12170
+135,Risky,saab 99le,front,99.1,186.6,66.5,56.1,2707,NormalPerf,121,FuelInjected,2.54,2.07,9.3,110,5250,21,15040
+136,Risky,saab 99gle,front,99.1,186.6,66.5,56.1,2758,NormalPerf,121,FuelInjected,3.54,3.07,9.3,110,5250,21,15510
+137,Risky,saab 99gle,front,99.1,186.6,66.5,56.1,2808,NormalPerf,121,FuelInjected,3.54,3.07,9,160,5500,19,18150
+138,Risky,saab 99e,front,99.1,186.6,66.5,56.1,2847,NormalPerf,121,FuelInjected,3.54,3.07,9,160,5500,19,18620
+139,Risky,subaru,front,93.7,156.9,63.4,53.7,2050,NormalPerf,97,Carbureted,3.62,2.36,9,69,4900,31,5118
+140,Risky,subaru dl,front,93.7,157.9,63.6,53.7,2120,NormalPerf,108,Carbureted,3.62,2.64,8.7,73,4400,26,7053
+141,Risky,subaru dl,front,93.3,157.3,63.8,55.7,2240,NormalPerf,108,Carbureted,3.62,2.64,8.7,73,4400,26,7603
+142,Safe,subaru,front,97.2,172,65.4,52.5,2145,NormalPerf,108,Carbureted,3.62,2.64,9.5,82,4800,32,7126
+143,Safe,subaru brz,front,97.2,172,65.4,52.5,2190,NormalPerf,108,Carbureted,3.62,2.64,9.5,82,4400,28,7775
+144,Safe,subaru baja,front,97.2,172,65.4,52.5,2340,NormalPerf,108,FuelInjected,3.62,2.64,9,94,5200,26,9960
+145,Safe,subaru r1,front,97,172,65.4,54.3,2385,NormalPerf,108,Carbureted,3.62,2.64,9,82,4800,24,9233
+146,Safe,subaru r2,front,97,172,65.4,54.3,2510,NormalPerf,108,FuelInjected,3.62,2.64,7.7,111,4800,24,11259
+147,Safe,subaru trezia,front,97,173.5,65.4,53,2290,NormalPerf,108,Carbureted,3.62,2.64,9,82,4800,28,7463
+148,Safe,subaru tribeca,front,97,173.5,65.4,53,2455,NormalPerf,108,FuelInjected,3.62,2.64,9,94,5200,25,10198
+149,Safe,subaru dl,front,96.9,173.6,65.4,54.9,2420,NormalPerf,108,Carbureted,3.62,2.64,9,82,4800,23,8013
+150,Safe,subaru dl,front,96.9,173.6,65.4,54.9,2650,NormalPerf,108,FuelInjected,3.62,2.64,7.7,111,4800,23,11694
+151,Risky,toyota corona mark ii,front,95.7,158.7,63.6,54.5,1985,NormalPerf,92,Carbureted,3.05,3.03,9,62,4800,35,5348
+152,Risky,toyota corona,front,95.7,158.7,63.6,54.5,2040,NormalPerf,92,Carbureted,3.05,3.03,9,62,4800,31,6338
+153,Risky,toyota corolla 1200,front,95.7,158.7,63.6,54.5,2015,NormalPerf,92,Carbureted,3.05,3.03,9,62,4800,31,6488
+154,Safe,toyota corona hardtop,front,95.7,169.7,63.6,59.1,2280,NormalPerf,92,Carbureted,3.05,3.03,9,62,4800,31,6918
+155,Safe,toyota corolla 1600 (sw),front,95.7,169.7,63.6,59.1,2290,NormalPerf,92,Carbureted,3.05,3.03,9,62,4800,27,7898
+156,Safe,toyota carina,front,95.7,169.7,63.6,59.1,3110,NormalPerf,92,Carbureted,3.05,3.03,9,62,4800,27,8778
+157,Safe,toyota mark ii,front,95.7,166.3,64.4,53,2081,NormalPerf,98,Carbureted,3.19,3.03,9,70,4800,30,6938
+158,Safe,toyota corolla 1200,front,95.7,166.3,64.4,52.8,2109,NormalPerf,98,Carbureted,3.19,3.03,9,70,4800,30,7198
+159,Safe,toyota corona,front,95.7,166.3,64.4,53,2275,NormalPerf,110,FuelInjected,3.27,3.35,22.5,56,4500,34,7898
+160,Safe,toyota corolla,front,95.7,166.3,64.4,52.8,2275,NormalPerf,110,FuelInjected,3.27,3.35,22.5,56,4500,38,7788
+161,Safe,toyota corona,front,95.7,166.3,64.4,53,2094,NormalPerf,98,Carbureted,3.19,3.03,9,70,4800,38,7738
+162,Safe,toyota corolla,front,95.7,166.3,64.4,52.8,2122,NormalPerf,98,Carbureted,3.19,3.03,9,70,4800,28,8358
+163,Safe,toyota mark ii,front,95.7,166.3,64.4,52.8,2140,NormalPerf,98,Carbureted,3.19,3.03,9,70,4800,28,9258
+164,Risky,toyota corolla liftback,front,94.5,168.7,64,52.6,2169,NormalPerf,98,Carbureted,3.19,3.03,9,70,4800,29,8058
+165,Risky,toyota corona,front,94.5,168.7,64,52.6,2204,NormalPerf,98,Carbureted,3.19,3.03,9,70,4800,29,8238
+166,Risky,toyota celica gt liftback,front,94.5,168.7,64,52.6,2265,NormalPerf,98,FuelInjected,3.24,3.08,9.4,112,6600,26,9298
+167,Risky,toyota corolla tercel,front,94.5,168.7,64,52.6,2300,NormalPerf,98,FuelInjected,3.24,3.08,9.4,112,6600,26,9538
+168,Risky,toyota corona liftback,front,98.4,176.2,65.6,52,2540,NormalPerf,146,FuelInjected,3.62,3.5,9.3,116,4800,24,8449
+169,Risky,toyota corolla,front,98.4,176.2,65.6,52,2536,NormalPerf,146,FuelInjected,3.62,3.5,9.3,116,4800,24,9639
+170,Risky,toyota starlet,front,98.4,176.2,65.6,52,2551,NormalPerf,146,FuelInjected,3.62,3.5,9.3,116,4800,24,9989
+171,Risky,toyota tercel,front,98.4,176.2,65.6,52,2679,NormalPerf,146,FuelInjected,3.62,3.5,9.3,116,4800,24,11199
+172,Risky,toyota corolla,front,98.4,176.2,65.6,52,2714,NormalPerf,146,FuelInjected,3.62,3.5,9.3,116,4800,24,11549
+173,Risky,toyota cressida,front,98.4,176.2,65.6,53,2975,NormalPerf,146,FuelInjected,3.62,3.5,9.3,116,4800,24,17669
+174,Safe,toyota corolla,front,102.4,175.6,66.5,54.9,2326,NormalPerf,122,FuelInjected,3.31,3.54,8.7,92,4200,29,8948
+175,Safe,toyota celica gt,front,102.4,175.6,66.5,54.9,2480,NormalPerf,110,FuelInjected,3.27,3.35,22.5,73,4500,30,10698
+176,Safe,toyota corona,front,102.4,175.6,66.5,53.9,2414,NormalPerf,122,FuelInjected,3.31,3.54,8.7,92,4200,27,9988
+177,Safe,toyota corolla,front,102.4,175.6,66.5,54.9,2414,NormalPerf,122,FuelInjected,3.31,3.54,8.7,92,4200,27,10898
+178,Safe,toyota mark ii,front,102.4,175.6,66.5,53.9,2458,NormalPerf,122,FuelInjected,3.31,3.54,8.7,92,4200,27,11248
+179,Risky,toyota corolla liftback,front,102.9,183.5,67.7,52,2976,HighPerf,171,FuelInjected,3.27,3.35,9.3,161,5200,20,16558
+180,Risky,toyota corona,front,102.9,183.5,67.7,52,3016,HighPerf,171,FuelInjected,3.27,3.35,9.3,161,5200,19,15998
+181,Safe,toyota starlet,front,104.5,187.8,66.5,54.1,3131,HighPerf,171,FuelInjected,3.27,3.35,9.2,156,5200,20,15690
+182,Safe,toyouta tercel,front,104.5,187.8,66.5,54.1,3151,HighPerf,161,FuelInjected,3.27,3.35,9.2,156,5200,19,15750
+183,Risky,vokswagen rabbit,front,97.3,171.7,65.5,55.7,2261,NormalPerf,97,FuelInjected,3.01,3.4,23,52,4800,37,7775
+184,Risky,volkswagen 1131 deluxe sedan,front,97.3,171.7,65.5,55.7,2209,NormalPerf,109,FuelInjected,3.19,3.4,9,85,5250,27,7975
+185,Risky,volkswagen model 111,front,97.3,171.7,65.5,55.7,2264,NormalPerf,97,FuelInjected,3.01,3.4,23,52,4800,37,7995
+186,Risky,volkswagen type 3,front,97.3,171.7,65.5,55.7,2212,NormalPerf,109,FuelInjected,3.19,3.4,9,85,5250,27,8195
+187,Risky,volkswagen 411 (sw),front,97.3,171.7,65.5,55.7,2275,NormalPerf,109,FuelInjected,3.19,3.4,9,85,5250,27,8495
+188,Risky,volkswagen super beetle,front,97.3,171.7,65.5,55.7,2319,NormalPerf,97,FuelInjected,3.01,3.4,23,68,4500,37,9495
+189,Risky,volkswagen dasher,front,97.3,171.7,65.5,55.7,2300,NormalPerf,109,FuelInjected,3.19,3.4,10,100,5500,26,9995
+190,Risky,vw dasher,front,94.5,159.3,64.2,55.6,2254,NormalPerf,109,FuelInjected,3.19,3.4,8.5,90,5500,24,11595
+191,Risky,vw rabbit,front,94.5,165.7,64,51.4,2221,NormalPerf,109,FuelInjected,3.19,3.4,8.5,90,5500,24,9980
+192,Safe,volkswagen rabbit,front,100.4,180.2,66.9,55.1,2661,NormalPerf,136,FuelInjected,3.19,3.4,8.5,110,5500,19,13295
+193,Safe,volkswagen rabbit custom,front,100.4,180.2,66.9,55.1,2579,NormalPerf,97,FuelInjected,3.01,3.4,23,68,4500,33,13845
+194,Safe,volkswagen dasher,front,100.4,183.1,66.9,55.1,2563,NormalPerf,109,FuelInjected,3.19,3.4,9,88,5500,25,12290
+195,Safe,volvo 145e (sw),front,104.3,188.8,67.2,56.2,2912,NormalPerf,141,FuelInjected,3.78,3.15,9.5,114,5400,23,12940
+196,Safe,volvo 144ea,front,104.3,188.8,67.2,57.5,3034,NormalPerf,141,FuelInjected,3.78,3.15,9.5,114,5400,23,13415
+197,Safe,volvo 244dl,front,104.3,188.8,67.2,56.2,2935,NormalPerf,141,FuelInjected,3.78,3.15,9.5,114,5400,24,15985
+198,Safe,volvo 245,front,104.3,188.8,67.2,57.5,3042,NormalPerf,141,FuelInjected,3.78,3.15,9.5,114,5400,24,16515
+199,Safe,volvo 264gl,front,104.3,188.8,67.2,56.2,3045,NormalPerf,130,FuelInjected,3.62,3.15,7.5,162,5100,17,18420
+200,Safe,volvo diesel,front,104.3,188.8,67.2,57.5,3157,NormalPerf,130,FuelInjected,3.62,3.15,7.5,162,5100,17,18950
+201,Safe,volvo 145e (sw),front,109.1,188.8,68.9,55.5,2952,NormalPerf,141,FuelInjected,3.78,3.15,9.5,114,5400,23,16845
+202,Safe,volvo 144ea,front,109.1,188.8,68.8,55.5,3049,NormalPerf,141,FuelInjected,3.78,3.15,8.7,160,5300,19,19045
+203,Safe,volvo 244dl,front,109.1,188.8,68.9,55.5,3012,HighPerf,173,FuelInjected,3.58,2.87,8.8,134,5500,18,21485
+204,Safe,volvo 246,front,109.1,188.8,68.9,55.5,3217,HighPerf,145,FuelInjected,3.01,3.4,23,106,4800,26,22470
+205,Safe,volvo 264gl,front,109.1,188.8,68.9,55.5,3062,NormalPerf,141,FuelInjected,3.78,3.15,9.5,114,5400,19,22625
